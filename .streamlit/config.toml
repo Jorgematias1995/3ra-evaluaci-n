@@ -1,0 +1,7 @@
+# Apariencia de la app (este archivo SÍ se sube a GitHub: no tiene claves).
+[theme]
+base = "light"
+primaryColor = "#1c5cab"
+
+[client]
+toolbarMode = "minimal"
